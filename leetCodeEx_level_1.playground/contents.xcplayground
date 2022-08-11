@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='D1_1480_Running_Sum'/>
+        <page name='D1_724_Find_Pivot_Index'/>
         <page name='Untitled Page'/>
     </pages>
 </playground>
