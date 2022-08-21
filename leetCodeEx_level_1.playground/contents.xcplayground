@@ -3,8 +3,11 @@
     <pages>
         <page name='D1_1480_Running_Sum'/>
         <page name='D1_724_Find_Pivot_Index'/>
-        <page name='Untitled Page'/>
+        <page name='Linked_List demo'/>
         <page name='D2_205_Isomorphic_Strings'/>
         <page name='D2_392._Is_Subsequence'/>
+        <page name='D3_21_Merge_Two_Sorted_Lists '/>
+        <page name='D5_121_Best_Time_to_Buy_and_Sell_Stock'/>
+        <page name='D5_409_Longest_Palindrome '/>
     </pages>
 </playground>
